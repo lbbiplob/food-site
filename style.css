@@ -68,3 +68,38 @@ body{
     width: 100%;
     margin: 0px 200px;
 }
+.recipi-name{
+    margin: 50px;
+    text-align: center;
+}
+
+.name-left{
+    width: 35%;
+    padding: 30px;
+    box-shadow: 5px 7px 30px gray;
+    border-radius: 30px;
+}
+.name-left img {
+    width: 100%;
+}
+.recipi-contaniar{
+    display: flex;
+    justify-content: space-evenly;
+}
+.followers-containar{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 110PX;
+    box-shadow: 5px 7px 30px gray;
+    border-radius: 20px;
+    padding: 30px;
+}
+h1{
+    font-size: 50px;
+}
+.footer-area{
+    text-align: center;
+    padding: 50px;
+    background-color: #0B0D17;
+    color: wheat;
+}
